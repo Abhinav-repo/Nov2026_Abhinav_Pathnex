@@ -1,0 +1,11 @@
+# What i did today
+
+an hour coding practice
+30 min git practice
+2 hour learn aws services
+
+I created an EC2 instance and installed Git on it. Then, I cloned the repository from GitHub, practised writing the Day 07 coding exercises, and created a new branch after completing the daily coding tasks. Finally, I created two VPCs usingthe AWS Management Console and established a connection between them.
+
+
+
+
